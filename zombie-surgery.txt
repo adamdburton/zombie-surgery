@@ -1,0 +1,7 @@
+"Gamemode"
+{
+	"base"		"base"
+	"title"		"Zombie Surgery"
+	"maps"		"^su_"
+	"menusystem"	"1"
+}
